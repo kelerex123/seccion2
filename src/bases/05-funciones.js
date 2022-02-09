@@ -16,7 +16,6 @@ console.log( saludar2('Pepe') );
 console.log( saludar3('Pog') );
 console.log( saludar4() );
 
-
 const getUser = () => ({
         uid: '12345467',
         username: 'kelerex12345s'
